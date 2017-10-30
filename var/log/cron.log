@@ -1,0 +1,114 @@
+2017-10-27T12:38:01+00:00 DEBUG (7): Generated schedule. Newest task is scheduled at "2017-10-27 12:57:00". (Duration: 1.17 sec)
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "aoescheduler_heartbeat" at "2017-10-27 12:45" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "aoescheduler_heartbeat" at "2017-10-27 12:50" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "aoescheduler_heartbeat" at "2017-10-27 12:55" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "captcha_delete_expired_images" at "2017-10-27 12:50" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:43" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:44" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:45" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:46" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:47" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:48" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:49" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:50" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:51" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:52" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:53" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:54" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:55" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:56" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "core_email_queue_send_all" at "2017-10-27 12:57" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "newsletter_send_all" at "2017-10-27 12:45" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "newsletter_send_all" at "2017-10-27 12:50" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Pending schedule for "newsletter_send_all" at "2017-10-27 12:55" already exists 1 times. Skipping.
+2017-10-27T12:42:11+00:00 DEBUG (7): Generated schedule. Newest task is scheduled at "2017-10-27 13:01:00". (Duration: 0.44 sec)
+2017-10-27T15:31:39+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T15:31:39+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T15:32:47+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T15:32:47+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T15:34:55+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T15:34:55+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T15:38:27+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T15:38:27+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T15:38:27+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T15:39:17+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T15:39:17+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T15:39:17+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T15:39:34+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T15:39:34+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T15:39:34+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:23:51+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:23:51+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:23:51+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:28:55+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:28:55+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:28:55+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:30:49+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:30:49+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:31:42+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:31:42+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:31:42+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:32:23+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:32:24+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:36:43+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:36:43+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:38:23+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:38:23+00:00 DEBUG (7): Pending schedule for "order_cancel_orders" at "2017-10-27 17:38:00" already exists 1 times. Skipping.
+2017-10-27T17:38:24+00:00 DEBUG (7): Pending schedule for "order_cancel_orders" at "2017-10-27 17:38:00" already exists 1 times. Skipping.
+2017-10-27T17:38:24+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:38:24+00:00 DEBUG (7): Pending schedule for "order_cancel_orders" at "2017-10-27 17:38:00" already exists 1 times. Skipping.
+2017-10-27T17:41:02+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:41:02+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:41:25+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:41:25+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:41:25+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:43:10+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:43:10+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:43:10+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:43:56+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:43:57+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:43:57+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:52:52+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:52:52+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:52:52+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T17:59:10+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T17:59:10+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T17:59:11+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:05:20+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:05:20+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:05:21+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:08:39+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:08:39+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:08:39+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:09:23+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:09:23+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:09:23+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:10:42+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:10:42+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:10:42+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:11:35+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:11:35+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:11:35+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:16:26+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:16:28+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:16:28+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:17:37+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:17:37+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:18:03+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:19:40+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:19:40+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:20:18+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:20:19+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:20:22+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:22:41+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:22:42+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:22:42+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:24:43+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:24:44+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:24:44+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-27T18:25:36+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-27T18:25:36+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-27T18:25:36+00:00 DEBUG (7): Stop: order_cancel_orders
+2017-10-30T11:49:47+00:00 DEBUG (7): Job "order_cancel_orders" (id: ) is running as autoridade nt\sistema, but this doesn't match the configuration. You can disable this message by setting the default user in configuration.
+2017-10-30T11:49:47+00:00 DEBUG (7): Start: order_cancel_orders
+2017-10-30T11:49:56+00:00 DEBUG (7): Stop: order_cancel_orders

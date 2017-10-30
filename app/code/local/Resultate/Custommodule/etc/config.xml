@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Resultate_Custommodule>
+      <version>0.1.0</version>
+    </Resultate_Custommodule>
+  </modules>
+
+  <global>
+    <helpers>
+      <custommodule>
+        <class>Resultate_Custommodule_Helper</class>
+      </custommodule>
+    </helpers>
+    <models>
+      <resultate_custommodule>
+        <class>Resultate_Custommodule_Model</class>
+      </resultate_custommodule>
+    </models>
+    <events>
+      <catalog_product_save_after>
+        <observers>
+          <resultate_custommodule>
+            <class>resultate_custommodule/observer</class>
+            <method>logUpdate</method>
+            <type>singleton</type>
+          </resultate_custommodule>
+        </observers>
+      </catalog_product_save_after>
+    </events>
+  </global>
+
+  <admin>
+    <routers>
+      <custommodule>
+        <use>admin</use>
+        <args>
+          <module>Resultate_Custommodule</module>
+          <frontName>admin_custommodule</frontName>
+        </args>
+      </custommodule>
+    </routers>
+  </admin>
+
+  <adminhtml>
+    <acl>
+      <resources>
+        <admin>
+          <children>
+            <system>
+              <children>
+                <config>
+                  <children>
+                    <helloworld_options>
+                      <title>Store Hello World Module Section</title>
+                    </helloworld_options>
+                  </children>
+                </config>
+              </children>
+            </system>
+          </children>
+        </admin>
+      </resources>
+    </acl>
+  </adminhtml>
+
+  <frontend>
+    <routers>
+      <custommodule>
+        <use>standard</use>
+        <args>
+          <module>Resultate_Custommodule</module>
+          <frontName>custommodule</frontName>
+        </args>
+      </custommodule>
+    </routers>
+    <events>
+      <customer_login>
+        <observers>
+          <resultate_custommodule_customer_login>
+            <type>model</type>
+            <class>resultate_custommodule/observer</class>
+            <method>customerLogin</method>
+          </resultate_custommodule_customer_login>
+        </observers>
+      </customer_login>
+    </events>
+  </frontend>
+
+  <crontab>
+    <jobs>
+      <order_cancel_orders>
+        <schedule><cron_expr>*/5 * * * *</cron_expr></schedule>
+        <run><model>resultate_custommodule/observer::cancelUnpaidOrders</model></run>
+      </order_cancel_orders>
+    </jobs>
+  </crontab>
+
+</config>

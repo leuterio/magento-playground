@@ -1,0 +1,47 @@
+<config>
+  <tabs>
+    <expiryunpaidorderconfig translate="label" module="custommodule">
+      <label>Pendencia de Pagamento</label>
+      <sort_order>99999</sort_order>
+    </expiryunpaidorderconfig>
+  </tabs>
+  <sections>
+    <helloworld_options translate="label" module="custommodule">
+      <label>Configurar Vencimento</label>
+      <tab>expiryunpaidorderconfig</tab>
+      <frontend_type>text</frontend_type>
+      <sort_order>1000</sort_order>
+      <show_in_default>1</show_in_default>
+      <show_in_website>1</show_in_website>
+      <show_in_store>1</show_in_store>
+      <groups>
+        <messages translate="label">
+          <label>Escolher Vencimento de Pagamento</label>
+          <frontend_type>text</frontend_type>
+          <sort_order>1</sort_order>
+          <show_in_default>1</show_in_default>
+          <show_in_website>1</show_in_website>
+          <show_in_store>1</show_in_store>
+          <fields>
+            <hello_message>
+              <label>Qtde. Dias para Pagamento</label>
+              <frontend_type>text</frontend_type>
+              <sort_order>1</sort_order>
+              <show_in_default>1</show_in_default>
+              <show_in_website>1</show_in_website>
+              <show_in_store>1</show_in_store>
+            </hello_message>
+            <hello_time>
+              <label>Hora Programada</label>
+              <frontend_type>time</frontend_type>
+              <sort_order>1</sort_order>
+              <show_in_default>1</show_in_default>
+              <show_in_website>1</show_in_website>
+              <show_in_store>1</show_in_store>
+            </hello_time>
+          </fields>
+        </messages>
+      </groups>
+    </helloworld_options>
+  </sections>
+</config>

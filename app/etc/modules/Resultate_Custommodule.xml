@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Resultate_Custommodule>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Resultate_Custommodule>
+    </modules>
+</config>
