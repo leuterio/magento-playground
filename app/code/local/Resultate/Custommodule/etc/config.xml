@@ -51,9 +51,9 @@
               <children>
                 <config>
                   <children>
-                    <helloworld_options>
-                      <title>Store Hello World Module Section</title>
-                    </helloworld_options>
+                    <expiry_options>
+                      <title>Configurar Vencimento Section</title>
+                    </expiry_options>
                   </children>
                 </config>
               </children>
