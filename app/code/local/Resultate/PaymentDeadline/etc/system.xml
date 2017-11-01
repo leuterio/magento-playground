@@ -1,12 +1,12 @@
 <config>
   <tabs>
-    <expiryunpaidorderconfig translate="label" module="custommodule">
+    <expiryunpaidorderconfig translate="label" module="paymentdeadline">
       <label>Pendencia de Pagamento</label>
       <sort_order>99999</sort_order>
     </expiryunpaidorderconfig>
   </tabs>
   <sections>
-    <expiry_options translate="label" module="custommodule">
+    <expiry_options translate="label" module="paymentdeadline">
       <label>Configurar Vencimento</label>
       <tab>expiryunpaidorderconfig</tab>
       <frontend_type>text</frontend_type>

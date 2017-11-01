@@ -1,6 +1,6 @@
 <?php
 
-class Resultate_Custommodule_Adminhtml_IndexController extends Mage_Adminhtml_Controller_Action {
+class Resultate_PaymentDeadline_Adminhtml_IndexController extends Mage_Adminhtml_Controller_Action {
 
   /**
   * Admin controller index action
